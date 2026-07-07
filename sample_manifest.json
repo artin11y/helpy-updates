@@ -1,6 +1,6 @@
 {
-  "latest_version": "0.0.0",
-  "download_url": "",
-  "mandatory": false,
-  "notes": "No updates yet."
+  "latest_version": "0.1.0",
+  "download_url": "LINK_TO_UPDATE_ZIP",
+  "mandatory": true,
+  "notes": "Helpy update: improved chat guide, GUI learning chat, updater SSL stability, and security improvements."
 }
