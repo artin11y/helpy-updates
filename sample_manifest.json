@@ -1,6 +1,6 @@
 {
-  "latest_version": "0.2.0",
-  "download_url": "https://github.com/artin11y/helpy-updates/releases/download/v0.1.0/Helpy.zip",
+  "latest_version": "0.3.0",
+  "download_url": "https://drive.usercontent.google.com/download?id=1ZyatcT009gwBqCy-MnMA8TsfCKxm1Aky&export=download&authuser=0&confirm=t&uuid=803e7fd3-b293-4a47-9db1-61cf967b5fb4&at=AMrWOn2KRkChJaj0kH0vIYKOyyGx%3A1788566613127",
   "mandatory": true,
   "notes": "Helpy update: improved chat guide, GUI learning chat, updater SSL stability, and security improvements."
 }
